@@ -1,7 +1,7 @@
 ### Olá eu sou o Adam Victor! 
 
 - 🔭 Hoje trabalho com Front-End | Indie Game Developer
-- 🌱 Estudando C# | HTML5/CSS3 | JavaScript e ReactJS
+- 🌱 Estudando PHP| C# | HTML5/CSS3 | JavaScript e ReactJS
 - 📫 Contate-me no Email: adamdarkstalker7@gmail.com ou adam.machado@hotmail.com  
 
 <div>
