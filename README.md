@@ -7,9 +7,9 @@
 <div>
   
   <a href="https://github.com/RyzeZero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyzeZero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyzeZero&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzeZero&layout=compact&langs_count=8&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzeZero&layout=compact&langs_count=8&theme=highcontrast"/>
   
 </div>
   
